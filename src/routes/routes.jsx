@@ -1,6 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "../pages/Home"; // Ensure paths are correct
-import About from "../pages/dashboard";
+import About from "../pages/Dashboard";
+import Products from "../pages/Products";
 
 const AppRoutes = () => {
   return (
@@ -8,6 +9,7 @@ const AppRoutes = () => {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/dashboard" element={<dashboard />} />
+        <Route path="/products" element={<Products />} />
       </Routes>
 
   );
