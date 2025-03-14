@@ -4,12 +4,12 @@ import About from "../pages/dashboard";
 
 const AppRoutes = () => {
   return (
-    <Router>
+
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/dashboard" element={<dashboard />} />
       </Routes>
-    </Router>
+
   );
 };
 
