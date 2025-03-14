@@ -5,8 +5,8 @@
       "name": "Dumbbells",
       "price": 20,
       "images": [
-        "https://images.unsplash.com/photo-1581009137042-c552e4856974",
-        "https://images.unsplash.com/photo-1599058918142-7b58a3d90aaf"
+        "https://via.placeholder.com/150/111111",
+        "https://via.placeholder.com/150/222222"
       ]
     },
     {
@@ -14,7 +14,7 @@
       "name": "Treadmill",
       "price": 300,
       "images": [
-        "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50e"
+        "https://via.placeholder.com/150/333333"
       ]
     },
     {
@@ -22,8 +22,36 @@
       "name": "Boxing Gloves",
       "price": 50,
       "images": [
-        "https://images.unsplash.com/photo-1605296867304-46d5465a13f1",
-        "https://images.unsplash.com/photo-1605296867304-46d5465a13f1"
+        "https://via.placeholder.com/150/444444",
+        "https://via.placeholder.com/150/555555"
+      ]
+    }
+  ],
+  "diet": [
+    {
+      "id": 1,
+      "name": "Keto Diet",
+      "calories": 1500,
+      "images": [
+        "https://via.placeholder.com/150/666666",
+        "https://via.placeholder.com/150/777777"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "High Protein Diet",
+      "calories": 1800,
+      "images": [
+        "https://via.placeholder.com/150/888888"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Vegan Diet",
+      "calories": 1200,
+      "images": [
+        "https://via.placeholder.com/150/999999",
+        "https://via.placeholder.com/150/AAAAAA"
       ]
     }
   ]
