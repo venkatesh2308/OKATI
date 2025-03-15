@@ -1,1 +1,0 @@
-import{R as o,j as s}from"./index-CtDt_syk.js";const r=o.memo(({src:t,alt:e})=>(console.log(t),s.jsx("img",{src:t,alt:e,style:{width:"150px",height:"150px",objectFit:"cover"}})));export{r as default};
